@@ -7,11 +7,6 @@ you can look into my porfolio "Portfolio"
 project 
 </h2>
 
-
-<a href="https://z18r.github.io/SimpleMathGame/"><span>🖥️🖥️ DEMO <span/><a/>
-
-<br/>
-
 ## Project
 
 
